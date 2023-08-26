@@ -1,0 +1,6 @@
+pip installable libraries
+plotext 
+matplotlib
+reportlab
+tabulate
+pypdf

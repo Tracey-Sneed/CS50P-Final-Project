@@ -6,7 +6,7 @@
 ░╚════╝░╚═╝░░░╚═╝░░░╚═╝╚══════╝╚═════╝░╚═╝╚═╝░░░░░░░░╚═╝░░░
 
 ##  Intro
-This is Tracey's CS50P final Project. This a terminal-based program, that prompts users for major U.S. cities and dates and outputs the avg temperature data as a graph or in a table depending on the user's preferences.
+This is Tracey's CS50P final project. This a terminal-based program, that prompts users for major U.S. cities and dates and outputs the avg temperature data as a graph or in a table depending on the user's preferences.
 
 
 ##  Demo
